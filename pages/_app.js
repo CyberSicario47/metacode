@@ -13,4 +13,4 @@ const MyApp = ({ Component, pageProps }) => (
   </>
 );
 
-export default Head;
+export default MyApp;
